@@ -1,0 +1,9 @@
+D:\二学期\期末项目\NovelS\Novel.DAL\bin\Debug\Novel.DAL.dll
+D:\二学期\期末项目\NovelS\Novel.DAL\bin\Debug\Novel.DAL.pdb
+D:\二学期\期末项目\NovelS\Novel.DAL\bin\Debug\Model.dll
+D:\二学期\期末项目\NovelS\Novel.DAL\bin\Debug\Model.pdb
+D:\二学期\期末项目\NovelS\Novel.DAL\obj\Debug\Novel.DAL.csprojResolveAssemblyReference.cache
+D:\二学期\期末项目\NovelS\Novel.DAL\obj\Debug\Novel.DAL.csproj.CoreCompileInputs.cache
+D:\二学期\期末项目\NovelS\Novel.DAL\obj\Debug\Novel.DAL.csproj.CopyComplete
+D:\二学期\期末项目\NovelS\Novel.DAL\obj\Debug\Novel.DAL.dll
+D:\二学期\期末项目\NovelS\Novel.DAL\obj\Debug\Novel.DAL.pdb

@@ -1,0 +1,66 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="AdminSite1.master.cs" Inherits="NovelS.AdminSite1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <style>
+        #top{
+            height:90px;
+            background-color:aquamarine;
+        }
+        #center{
+            height:800px;
+        }
+        #button{
+            height:120px;
+        }
+        li{
+            float:left;
+            list-style:none;
+            padding-left:80px;
+            font-family:KaiTi;
+            font-weight:900;
+            font-size:23px;
+        }
+        a{
+            text-decoration:none;
+        }
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div style="width:1200px;margin:auto">
+            <div id="top">
+                <div style="height:30px;background-color:black;">
+                    <span style="font-size:23px;font-family:KaiTi;color:white;">
+                        ASP小说管理系统
+                    </span>
+                    <span style="position:relative;left:700px;color:white;">
+                        当前登陆者:
+                        <label style="color:white;"></label>
+                        <a href="#">退出登陆</a>
+                    </span>
+                </div>
+                <ul>
+                    <li><a href="#">作者管理</a></li>
+                    <li><a href="#">书籍管理</a></li>
+                    <li><a href="#">章节管理</a></li>
+                    <li><a href="#">其他管理</a></li>
+                </ul>
+            </div>
+            <div id="center">
+                 <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                 </asp:ContentPlaceHolder>
+            </div>          
+            <div id="button">
+
+            </div>
+        </div>
+    </form>
+</body>
+</html>

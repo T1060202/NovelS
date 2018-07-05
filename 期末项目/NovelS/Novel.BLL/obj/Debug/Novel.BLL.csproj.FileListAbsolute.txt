@@ -1,0 +1,11 @@
+D:\二学期\期末项目\NovelS\Novel.BLL\bin\Debug\Novel.BLL.dll
+D:\二学期\期末项目\NovelS\Novel.BLL\bin\Debug\Novel.BLL.pdb
+D:\二学期\期末项目\NovelS\Novel.BLL\bin\Debug\Model.dll
+D:\二学期\期末项目\NovelS\Novel.BLL\bin\Debug\Novel.DAL.dll
+D:\二学期\期末项目\NovelS\Novel.BLL\bin\Debug\Model.pdb
+D:\二学期\期末项目\NovelS\Novel.BLL\bin\Debug\Novel.DAL.pdb
+D:\二学期\期末项目\NovelS\Novel.BLL\obj\Debug\Novel.BLL.csprojResolveAssemblyReference.cache
+D:\二学期\期末项目\NovelS\Novel.BLL\obj\Debug\Novel.BLL.csproj.CoreCompileInputs.cache
+D:\二学期\期末项目\NovelS\Novel.BLL\obj\Debug\Novel.BLL.csproj.CopyComplete
+D:\二学期\期末项目\NovelS\Novel.BLL\obj\Debug\Novel.BLL.dll
+D:\二学期\期末项目\NovelS\Novel.BLL\obj\Debug\Novel.BLL.pdb

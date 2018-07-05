@@ -1,0 +1,5 @@
+D:\二学期\期末项目\NovelS\Model\bin\Debug\Model.dll
+D:\二学期\期末项目\NovelS\Model\bin\Debug\Model.pdb
+D:\二学期\期末项目\NovelS\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\二学期\期末项目\NovelS\Model\obj\Debug\Model.dll
+D:\二学期\期末项目\NovelS\Model\obj\Debug\Model.pdb
